@@ -44,3 +44,4 @@ Each section includes a short gameplay demo video that you can middle click and 
 ### Contact
 - krystal.gtz@utexas.edu  
 - [LinkedIn](https://www.linkedin.com/in/krystal-gutierrez-29780a2ba/)
+- [GitHub](https://github.com/krystalgtz)
