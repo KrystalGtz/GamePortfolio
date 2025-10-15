@@ -1,7 +1,7 @@
 # Krystal Gutierrez — Game Programming Portfolio
 
 A showcase of my gameplay programming projects developed in **Unreal Engine** and **Unity**.  
-Each section includes a short gameplay demo video that you can press and a brief description of the mechanics I implemented.
+Each section includes a short gameplay demo video that you can middle click and a brief description of the mechanics I implemented.
 
 ---
 
