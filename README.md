@@ -4,6 +4,18 @@ A showcase of my gameplay programming projects developed in **Unreal Engine** an
 Each section includes a short gameplay demo video that you can middle click and a brief description of the mechanics I implemented.
 
 ---
+## Maxwell's Dream Diary
+**Engine:** Unreal Engine 5 (C++)
+**Overview:** Maxwell's Dream Diary is a 3D horror game where you play as Maxwell, a missing cat trapped inside an abandoned veterinary hospital. While being hunted by a mysterious winged creature, the player must explore the hospital and collect scattered diary pages that reveal what happened to Maxwell and how he can escape and reunite with his owner.
+**Contributions:**
+- Collaborated on the game's story, core gameplay mechanics, and overall concept
+- Programmed the tank-style movement controls and implemented the fixed-camera system in C++
+- Configured player interactions and keybinds using Unreal's interactable base classes for doors and collectible diary pages
+- Implemented the sprint and stamina system, including the stamina UI
+
+[![Watch the video](https://img.youtube.com/vi/IMcBxInXU9g/0.jpg)](https://www.youtube.com/watch?v=IMcBxInXU9g)
+
+---
 
 ## Backrooms-Inspired Game
 **Engine:** Unreal Engine 5 (C++)  
